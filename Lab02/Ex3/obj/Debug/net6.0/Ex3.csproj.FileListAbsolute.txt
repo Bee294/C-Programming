@@ -1,0 +1,15 @@
+D:\C# Programming\Csharp\Lab02\Ex3\bin\Debug\net6.0\Ex3.exe
+D:\C# Programming\Csharp\Lab02\Ex3\bin\Debug\net6.0\Ex3.deps.json
+D:\C# Programming\Csharp\Lab02\Ex3\bin\Debug\net6.0\Ex3.runtimeconfig.json
+D:\C# Programming\Csharp\Lab02\Ex3\bin\Debug\net6.0\Ex3.dll
+D:\C# Programming\Csharp\Lab02\Ex3\bin\Debug\net6.0\Ex3.pdb
+D:\C# Programming\Csharp\Lab02\Ex3\obj\Debug\net6.0\Ex3.csproj.AssemblyReference.cache
+D:\C# Programming\Csharp\Lab02\Ex3\obj\Debug\net6.0\Ex3.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Programming\Csharp\Lab02\Ex3\obj\Debug\net6.0\Ex3.AssemblyInfoInputs.cache
+D:\C# Programming\Csharp\Lab02\Ex3\obj\Debug\net6.0\Ex3.AssemblyInfo.cs
+D:\C# Programming\Csharp\Lab02\Ex3\obj\Debug\net6.0\Ex3.csproj.CoreCompileInputs.cache
+D:\C# Programming\Csharp\Lab02\Ex3\obj\Debug\net6.0\Ex3.dll
+D:\C# Programming\Csharp\Lab02\Ex3\obj\Debug\net6.0\refint\Ex3.dll
+D:\C# Programming\Csharp\Lab02\Ex3\obj\Debug\net6.0\Ex3.pdb
+D:\C# Programming\Csharp\Lab02\Ex3\obj\Debug\net6.0\Ex3.genruntimeconfig.cache
+D:\C# Programming\Csharp\Lab02\Ex3\obj\Debug\net6.0\ref\Ex3.dll
