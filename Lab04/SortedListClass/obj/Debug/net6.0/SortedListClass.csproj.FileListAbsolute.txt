@@ -1,0 +1,15 @@
+D:\C# Programming\Csharp\Lab04\SortedListClass\bin\Debug\net6.0\SortedListClass.exe
+D:\C# Programming\Csharp\Lab04\SortedListClass\bin\Debug\net6.0\SortedListClass.deps.json
+D:\C# Programming\Csharp\Lab04\SortedListClass\bin\Debug\net6.0\SortedListClass.runtimeconfig.json
+D:\C# Programming\Csharp\Lab04\SortedListClass\bin\Debug\net6.0\SortedListClass.dll
+D:\C# Programming\Csharp\Lab04\SortedListClass\bin\Debug\net6.0\SortedListClass.pdb
+D:\C# Programming\Csharp\Lab04\SortedListClass\obj\Debug\net6.0\SortedListClass.csproj.AssemblyReference.cache
+D:\C# Programming\Csharp\Lab04\SortedListClass\obj\Debug\net6.0\SortedListClass.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Programming\Csharp\Lab04\SortedListClass\obj\Debug\net6.0\SortedListClass.AssemblyInfoInputs.cache
+D:\C# Programming\Csharp\Lab04\SortedListClass\obj\Debug\net6.0\SortedListClass.AssemblyInfo.cs
+D:\C# Programming\Csharp\Lab04\SortedListClass\obj\Debug\net6.0\SortedListClass.csproj.CoreCompileInputs.cache
+D:\C# Programming\Csharp\Lab04\SortedListClass\obj\Debug\net6.0\SortedListClass.dll
+D:\C# Programming\Csharp\Lab04\SortedListClass\obj\Debug\net6.0\refint\SortedListClass.dll
+D:\C# Programming\Csharp\Lab04\SortedListClass\obj\Debug\net6.0\SortedListClass.pdb
+D:\C# Programming\Csharp\Lab04\SortedListClass\obj\Debug\net6.0\SortedListClass.genruntimeconfig.cache
+D:\C# Programming\Csharp\Lab04\SortedListClass\obj\Debug\net6.0\ref\SortedListClass.dll

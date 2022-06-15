@@ -1,0 +1,15 @@
+D:\C# Programming\Csharp\Lab04\HashtableTest\bin\Debug\net6.0\HashtableTest.exe
+D:\C# Programming\Csharp\Lab04\HashtableTest\bin\Debug\net6.0\HashtableTest.deps.json
+D:\C# Programming\Csharp\Lab04\HashtableTest\bin\Debug\net6.0\HashtableTest.runtimeconfig.json
+D:\C# Programming\Csharp\Lab04\HashtableTest\bin\Debug\net6.0\HashtableTest.dll
+D:\C# Programming\Csharp\Lab04\HashtableTest\bin\Debug\net6.0\HashtableTest.pdb
+D:\C# Programming\Csharp\Lab04\HashtableTest\obj\Debug\net6.0\HashtableTest.csproj.AssemblyReference.cache
+D:\C# Programming\Csharp\Lab04\HashtableTest\obj\Debug\net6.0\HashtableTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Programming\Csharp\Lab04\HashtableTest\obj\Debug\net6.0\HashtableTest.AssemblyInfoInputs.cache
+D:\C# Programming\Csharp\Lab04\HashtableTest\obj\Debug\net6.0\HashtableTest.AssemblyInfo.cs
+D:\C# Programming\Csharp\Lab04\HashtableTest\obj\Debug\net6.0\HashtableTest.csproj.CoreCompileInputs.cache
+D:\C# Programming\Csharp\Lab04\HashtableTest\obj\Debug\net6.0\HashtableTest.dll
+D:\C# Programming\Csharp\Lab04\HashtableTest\obj\Debug\net6.0\refint\HashtableTest.dll
+D:\C# Programming\Csharp\Lab04\HashtableTest\obj\Debug\net6.0\HashtableTest.pdb
+D:\C# Programming\Csharp\Lab04\HashtableTest\obj\Debug\net6.0\HashtableTest.genruntimeconfig.cache
+D:\C# Programming\Csharp\Lab04\HashtableTest\obj\Debug\net6.0\ref\HashtableTest.dll
